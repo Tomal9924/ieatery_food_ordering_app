@@ -1,11 +1,2 @@
 
-<p align="center">
-  <img src="https://github.com/Tomal9924/ieatery_food_ordering_app/blob/main/cart.png?raw=true" alt="App Screenshot" width="300"/>
-</p>
-![App Screenshot](https://github.com/Tomal9924/ieatery_food_ordering_app/blob/main/dashboard.png?raw=true)
-![App Screenshot](https://github.com/Tomal9924/ieatery_food_ordering_app/blob/main/food_list.png?raw=true)
-![App Screenshot](https://github.com/Tomal9924/ieatery_food_ordering_app/blob/main/food_details.png?raw=true)
-![App Screenshot](https://github.com/Tomal9924/ieatery_food_ordering_app/blob/main/cart.png?raw=true)
-![App Screenshot](https://github.com/Tomal9924/ieatery_food_ordering_app/blob/main/order_details.png?raw=true)
-![App Screenshot](https://github.com/Tomal9924/ieatery_food_ordering_app/blob/main/food.png?raw=true)
-![App Screenshot](https://github.com/Tomal9924/ieatery_food_ordering_app/blob/main/more.png?raw=true)
+<p align="center"> <img src="https://github.com/Tomal9924/ieatery_food_ordering_app/blob/main/dashboard.png?raw=true" alt="Dashboard Screen" width="250"/><br/> <strong>Dashboard Screen</strong> </p> <p align="center"> <img src="https://github.com/Tomal9924/ieatery_food_ordering_app/blob/main/food_list.png?raw=true" alt="Food List Screen" width="250"/><br/> <strong>Food List Screen</strong> </p> <p align="center"> <img src="https://github.com/Tomal9924/ieatery_food_ordering_app/blob/main/food_details.png?raw=true" alt="Food Details Screen" width="250"/><br/> <strong>Food Details Screen</strong> </p> <p align="center"> <img src="https://github.com/Tomal9924/ieatery_food_ordering_app/blob/main/cart.png?raw=true" alt="Cart Screen" width="250"/><br/> <strong>Cart Screen</strong> </p> <p align="center"> <img src="https://github.com/Tomal9924/ieatery_food_ordering_app/blob/main/order_details.png?raw=true" alt="Order Details Screen" width="250"/><br/> <strong>Order Details Screen</strong> </p> <p align="center"> <img src="https://github.com/Tomal9924/ieatery_food_ordering_app/blob/main/food.png?raw=true" alt="Food Management Screen" width="250"/><br/> <strong>Food Management Screen</strong> </p> <p align="center"> <img src="https://github.com/Tomal9924/ieatery_food_ordering_app/blob/main/more.png?raw=true" alt="More Options Screen" width="250"/><br/> <strong>More Options Screen</strong> </p>
